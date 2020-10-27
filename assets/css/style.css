@@ -954,6 +954,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 .medal {
   height: 5em;
 }
+.back-to-top {
+  color: white;
+}
+.back-to-top:hover, .back-to-top:focus, .back-to-top:active {
+  background: rgb(34, 56, 221);
+  color: white;
+}
 
 .track h5 {
   color: #191919;
