@@ -1176,7 +1176,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   font-weight: 600;
   background-color: #372ea2;
-  color: #191919;
+  color: #ffffff;
   padding: 10px 100px;
 }
 
@@ -1200,7 +1200,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #timeline .nav-tabs a.active {
   background-color: #4051DB;
-  color: #191919;
+  color: #ffffff;
 }
 
 #timeline .sub-heading {
