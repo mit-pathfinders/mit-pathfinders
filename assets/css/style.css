@@ -1914,7 +1914,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .schedule-item:hover {
-  background-color:rgba(145, 33, 48, 0.1);
+  background-color:#E2E4F5;
 }
 
 #schedule .schedule-item time {
